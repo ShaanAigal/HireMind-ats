@@ -10,13 +10,9 @@
 ![Screenshot 3](images/Screenshot3.png)
 > Display of ATS Score with extracted strengths and suggestions for improvement.
 
-### 4. AI Resume Suggestions Button Clicked
-![Screenshot 4](images/Screenshot4.png)
-> Get general improvement tips for resume formatting and content.
-
-### 5. AI Resume Suggestions Output
+### 4. AI Resume Suggestions 
 ![Screenshot 5](images/Screenshot5.png)
-> Display of personalized suggestions like adding summary, fixing formatting, etc.
+> Get general improvement tips for resume formatting and content.
 
 ### 6. Job Description Text Area and Match Button
 ![Screenshot 6](images/Screenshot6.png)
@@ -24,4 +20,5 @@
 
 ### 7. Resume to JD Matching Result
 ![Screenshot 7](images/Screenshot7.png)
+![Screenshot 4](images/Screenshot4.png)
 > Gemini highlights missing keywords and suggests how to align resume with JD.
